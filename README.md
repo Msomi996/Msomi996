@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Msomi996
+- 👋 Hi, I’m Nonhle Msomi
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning the Matrix Linux
+- 🌱 I’m now a ALX student, this is my first repository as a full-stack engineer 
 - 💞️ I’m looking to collaborate on interesting projects 
-- 📫 How to reach me nonhlemsomi9@gmail.com
+- 📫 Public repo
 
 <!---
 Msomi996/Msomi996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
