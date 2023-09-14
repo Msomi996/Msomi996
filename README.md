@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="cover image333.png" width="100"/>
+  <img src="https://camo.githubusercontent.com/980959effe59b8c133880c2abfac3ed5615326a86398d6114a28387319396781/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7061547a37555a625066545a4652596e6e422f67697068792e676966"100"/>
   
   <div id="badges">
     <a href="linkedin.com/in/nonhle-msomi-b40000bb">
