@@ -32,7 +32,7 @@
 ---
 
 <div align="center">
-  <img src="cover image333.png/1500x500" />
+  <img src="cover image333.png" />
 </div>
 
 <br>
