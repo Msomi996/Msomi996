@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="cover image333.png" width="100"/>
   
   <div id="badges">
     <a href="linkedin.com/in/nonhle-msomi-b40000bb">
