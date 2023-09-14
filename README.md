@@ -25,14 +25,14 @@
   
   <h1>
     Hey there, I'm Nonhle Msomi!
-    <img src="/Users/nonhlemsomi/Documents/Msomi996/cover image333.png" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1385129072267866112/1664976948/1500x500" />
+  <img src="/Users/nonhlemsomi/Documents/Msomi996/cover image333.png" />
 </div>
 
 <br>
