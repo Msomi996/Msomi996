@@ -81,7 +81,7 @@
 ---
 
 
-### :writing_hand: Blog Posts :
+<!--### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [My dev experience at The Collab Lab](https://dev.to/crispitipina/my-dev-experience-at-the-collab-lab-j8l)
@@ -93,7 +93,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-... [READ MORE](https://dev.to/crispitipina)
+... [READ MORE](https://dev.to/crispitipina)-->
 
 
 <!--
