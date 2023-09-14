@@ -21,11 +21,11 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=mama-simba&style=flat-square&color=green" alt=""/>
+  <!--<img src="https://komarev.com/ghpvc/?username=mama-simba&style=flat-square&color=green" alt=""/>-->
   
   <h1>
     Hey there, I'm Nonhle Msomi!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="/Users/nonhlemsomi/Documents/Msomi996/cover image333.png" width="30px"/>
   </h1>
 </div>
 
