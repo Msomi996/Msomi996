@@ -32,7 +32,7 @@
 ---
 
 <div align="center">
-  <img src="/Users/nonhlemsomi/Documents/Msomi996/coverimage333.png" />
+  <img src="/Users/nonhlemsomi/Documents/Msomi996/coverimage333.png/1500x500" />
 </div>
 
 <br>
