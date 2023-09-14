@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"5"/>
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="100"/>
   
   <div id="badges">
     <a href="linkedin.com/in/nonhle-msomi-b40000bb">
