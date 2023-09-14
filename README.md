@@ -80,7 +80,7 @@
 
 ---
 
-
+<!--
 <!--### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
@@ -95,7 +95,7 @@
 
 ... [READ MORE](https://dev.to/crispitipina)-->
 
-
+-->
 <!--
 
 
